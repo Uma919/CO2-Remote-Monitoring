@@ -1,8 +1,11 @@
 # CO2-Remote-Monitoring
 ESP-WROOM-32開発ボードにて二酸化炭素濃度を計測してAmbientへ送信し，M5StackではAmbientからデータを取得し表示させるものです．  
 本リポジトリは[オープンデータとLPWAの活用・可視化コンテスト データ活用部門](https://sites.google.com/view/opendata-lpwa/)における成果の一部を公開しております．
+
 # デモ
-二酸化炭素濃度を可視化するAmbientチャンネルは[コチラ](https://ambidata.io/bd/board.html?id=11304)
+二酸化炭素濃度を可視化するAmbientチャンネルは[コチラ](https://ambidata.io/bd/board.html?id=11304)  
+<img src="./img/demo.jpg" width="320px">
+
 # 必要なモノ
 ## 制御基板や電子部品
 主にスイッチサイエンスや秋月電子でご購入いただけます．
